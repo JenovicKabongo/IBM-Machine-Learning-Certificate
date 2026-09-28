@@ -1,0 +1,50 @@
+## OS files
+.DS_Store
+Thumbs.db
+
+## Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+## Packaging / builds
+dist/
+build/
+site/
+*.egg-info/
+.eggs/
+
+## Logs / coverage
+*.log
+.coverage
+.coverage.*
+htmlcov/
+
+## Data / model artifacts
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.pt
+*.pth
+
+## Environment variables
+.env
+.env.*
