@@ -57,7 +57,7 @@ Topics and practical work include:
 * Data preprocessing
 * Preparing datasets for Machine Learning
 
-📁 [`01-Exploratory-Data-Analysis-for-Machine-Learning/`](./01-Exploratory-Data-Analysis-for-Machine-Learning/)
+📁 [`https://github.com/JenovicKabongo/IBM-Machine-Learning-Certificate/tree/master/Exploratory-Data-Analysis-for-Machine-Learning`](./01-Exploratory-Data-Analysis-for-Machine-Learning/)
 
 ---
 
